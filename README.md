@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mikhail
 
-<!--
-**Bred0id/Bred0id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at **MIPT, Phystech School of Applied Mathematics and Computer Science**  
+Interested in **Python backend development, databases, algorithms and system design basics**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**Moscow Institute of Physics and Technology (MIPT)**  
+**FPMI — School of Applied Mathematics and Computer Science**
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![CMake](https://img.shields.io/badge/CMAKE-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Make](https://img.shields.io/badge/MAKE-6D00CC?style=for-the-badge&logo=gnu&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+## 🚀 Current Focus
+
+- building backend services with **FastAPI**
+- working with **PostgreSQL**, SQL functions, views and triggers
+- learning how to design APIs around real database logic
+- solving algorithmic problems in **C++** and **Python**
+
+---
+
+## 📌 Projects
+
+### Booking Service
+
+Backend service for booking music studios.
+
+The project combines:
+
+- FastAPI REST API
+- PostgreSQL database
+- SQL functions, views and triggers
+- Docker Compose
+- booking conflict handling
+- admin endpoints with header-based access
+
+Repository: [Booking_service](https://github.com/Bred0id/Booking_service)
+
+---
+
+## 📫 Contacts
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-@Bredoid-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bredoid)
+[![Email](https://img.shields.io/badge/EMAIL-khodyrev.ma%40phystech.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khodyrev.ma@phystech.edu)
+[![GitHub](https://img.shields.io/badge/GITHUB-Bred0id-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bred0id)
+[![Codeforces](https://img.shields.io/badge/CODEFORCES-Bred01d-1F8ACB?style=for-the-badge)](https://codeforces.com/profile/Bred01d)
