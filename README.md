@@ -38,28 +38,8 @@ Interested in **Python backend development, databases, algorithms and system des
 
 ---
 
-## 📌 Projects
-
-### Booking Service
-
-Backend service for booking music studios.
-
-The project combines:
-
-- FastAPI REST API
-- PostgreSQL database
-- SQL functions, views and triggers
-- Docker Compose
-- booking conflict handling
-- admin endpoints with header-based access
-
-Repository: [Booking_service](https://github.com/Bred0id/Booking_service)
-
----
-
 ## 📫 Contacts
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-@Bredoid-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bredoid)
 [![Email](https://img.shields.io/badge/EMAIL-khodyrev.ma%40phystech.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khodyrev.ma@phystech.edu)
-[![GitHub](https://img.shields.io/badge/GITHUB-Bred0id-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bred0id)
 [![Codeforces](https://img.shields.io/badge/CODEFORCES-Bred01d-1F8ACB?style=for-the-badge)](https://codeforces.com/profile/Bred01d)
