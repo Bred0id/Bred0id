@@ -8,7 +8,7 @@ Interested in **Python backend development, databases, algorithms and system des
 ## 🎓 Education
 
 **Moscow Institute of Physics and Technology (MIPT)**  
-**FPMI — School of Applied Mathematics and Computer Science**
+**School of Applied Mathematics and Computer Science**
 
 ---
 
